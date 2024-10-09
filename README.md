@@ -24,7 +24,7 @@
 
 1. **Клонирование репозитория**:
    ```bash
-   git clone https://github.com/your-repository/nested-list.git
+   git clone https://github.com/Cisaray/test-app.git
    cd test-app
    ```
 
